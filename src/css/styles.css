@@ -1,0 +1,15 @@
+@import url(./normalize.css);
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.section{
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    height: 50px;
+}
+
+footer{
+    height: 80px;
+}
